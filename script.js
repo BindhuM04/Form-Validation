@@ -75,4 +75,5 @@ function validateForm(){
         setTimeout(function(){submitError.style.display = 'none';}, 3000);
         return false;
     }
+
 }
